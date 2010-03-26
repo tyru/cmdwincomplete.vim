@@ -1,0 +1,3 @@
+補完を自分なりに理解しようとして作ってみた不完全プロトタイプ。
+
+cmdwinに限らずもっと賢い補完をしたかったら: http://github.com/Shougo/neocomplcache
